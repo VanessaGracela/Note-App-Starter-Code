@@ -1,12 +1,20 @@
 {
   "name": "note-app-starter-code",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app"
   },
   "author": "Vanessa Mariz T. Gracela",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaGracela/Note-App-Starter-Code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VanessaGracela/Note-App-Starter-Code/issues"
+  },
+  "homepage": "https://github.com/VanessaGracela/Note-App-Starter-Code#readme",
+  "description": ""
 }
