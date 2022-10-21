@@ -47,4 +47,5 @@ if (cmd[2] === 'update') {
     const oldNote = read ()
     update(note, oldNote)
     console.log(update);
+    
 }
